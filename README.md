@@ -1,2 +1,4 @@
-# Regression-Advanced-level-Technique
-Advanced level regression technique in which we used to create different pipelines to get the  accurate score for any Regression problem i : e House Price Prediction etc
+# Regression / Classification-Advanced-level-Technique
+Advanced level regression andclassificaion technique in which we use different methods or to create different pipelines to get the <br>
+accurate score for any Regression problem  or Classification Problem. We can use different sort of data to attain our result.<br>
+Now solve two different problems i:e House Price Prediction for Regression and Titanic Survival for Classification Problem.
